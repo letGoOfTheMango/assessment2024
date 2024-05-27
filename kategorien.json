@@ -1,0 +1,30 @@
+[
+  {
+    "id": "65b66262cf9ba9b44faf496a",
+    "name": "Bankkredit endfällig"
+  },
+  {
+    "id": "65b66262d10a37d47febc2dd",
+    "name": "Bankkredit 25 Jahre"
+  },
+  {
+    "id": "65b66262c575950f9bcfebb6",
+    "name": "Gesellschafterkredit"
+  },
+  {
+    "id": "65b66262ff851dcf3353fded",
+    "name": "Anleihe 1 Jahr"
+  },
+  {
+    "id": "65b66262692a9d732bd744ff",
+    "name": "Anleihe 2 Jahre"
+  },
+  {
+    "id": "65b662624d09dca2930e5648",
+    "name": "Anleihe 5 Jahre"
+  },
+  {
+    "id": "65b662623dea6ef7afc65f76",
+    "name": "Wandelschuldverschreibung"
+  }
+]
