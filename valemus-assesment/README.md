@@ -1,0 +1,4 @@
+- no styling
+- suboptimal project structure
+- no life cycle optimization
+- no wcag implementation. How much do you do?

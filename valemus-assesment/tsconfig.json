@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"],
+      "@hooks/*": ["./app/hooks/*"],
+      "@utils/*": ["./app/utils/*"],
+      "@components/*": ["./app/components/*"],
+      "@header/*": ["./app/components/Header/*"],
+      "@tabs/*": ["./app/components/Tabs/*"],
+      "@modal": ["./app/components/Modal/FinanceModal"],
+      "@footer/*": ["./app/components/Footer/*"],
+      "@context/*": ["./app/context/*"],
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}
